@@ -1,5 +1,5 @@
 {
-    "name": "kenjis/codeigniter-composer-installer",
+    "name": "andri-sudarmawijaya/codeigniter-composer-installer",
     "description": "Package to install CodeIgniter3 via Composer with secure folder structure.",
     "keywords": [
         "CodeIgniter",
