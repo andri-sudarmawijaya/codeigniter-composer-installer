@@ -6,7 +6,7 @@
         "Composer",
         "installer"
     ],
-    "type": "Project",
+    "type": "project",
     "homepage": "https://github.com/andri-sudarmawijaya/codeigniter-composer-installer",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,10 @@
         }
     ],
     "require": {
-            "codeigniter/framework": "3.1.*"
+            "codeigniter/framework": "3.1.*",
+        "coreui/coreui": " ^4.0",
+        "fortawesome/font-awesome": " ^5.15",
+        "snapappointments/bootstrap-select": " ^1.13"
     },
     "autoload": {
         "psr-4": {
