@@ -6,6 +6,7 @@
         "Composer",
         "installer"
     ],
+    "type": "Project",
     "homepage": "https://github.com/andri-sudarmawijaya/codeigniter-composer-installer",
     "license": "MIT",
     "authors": [
