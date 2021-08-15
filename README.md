@@ -4,6 +4,8 @@
 
 This package installs the offical [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) (version `3.1.*`) with secure folder structure via Composer.
 
+This repo is based on [CodeIgniter Composer Installer](https://github.com/kenjis/codeigniter-composer-installer). Thanks to [kenjis](https://github.com/kenjis).
+
 You can update CodeIgniter system folder to latest version with one command.
 
 ## Folder Structure
@@ -33,7 +35,7 @@ codeigniter/
 ### Install CodeIgniter
 
 ```
-$ composer create-project kenjis/codeigniter-composer-installer codeigniter
+$ composer create-project andri-sudarmawijaya/codeigniter-composer-installer codeigniter
 ```
 
 Above command installs `public/.htaccess` to remove `index.php` in your URL. If you don't need it, please remove it.
